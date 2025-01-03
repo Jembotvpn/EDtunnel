@@ -1,10 +1,10 @@
-name = "telkom"
+name = "pmi"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 workers_dev = true
 [[routes]]
-pattern = "telkom.jembot.us.kg"
+pattern = "pmi.jembot.us.kg"
 custom_domain = true
 [vars]
-PROXYIP = "36.95.152.58:12137"
+PROXYIP = "103.6.207.108:8080"
 UUID = "862a1ca5-eb90-400a-8b3c-df88f85bee13"
