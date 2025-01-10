@@ -1,10 +1,10 @@
-name = "thai"
+name = "kor"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 workers_dev = true
 [[routes]]
-pattern = "thai.meong.us.kg"
+pattern = "kor.meong.us.kg"
 custom_domain = true
 [vars]
-PROXYIP = "103.45.232.251:50678"
+PROXYIP = "112.133.58.139:50000"
 UUID = "862a1ca5-eb90-400a-8b3c-df88f85bee13"
