@@ -1,9 +1,9 @@
-name = "viet"
+name = "thai"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 workers_dev = true
 [[routes]]
-pattern = "viet.meong.us.kg"
+pattern = "thai.meong.us.kg"
 custom_domain = true
 [vars]
 PROXYIP = "103.45.232.251:50678"
