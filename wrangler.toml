@@ -1,10 +1,10 @@
-name = "vip"
+name = "viet"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 workers_dev = true
 [[routes]]
-pattern = "vip.meong.us.kg"
+pattern = "viet.meong.us.kg"
 custom_domain = true
 [vars]
-PROXYIP = "172.232.239.151:587"
+PROXYIP = "103.45.232.251:50678"
 UUID = "862a1ca5-eb90-400a-8b3c-df88f85bee13"
