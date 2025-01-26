@@ -1,10 +1,7 @@
-name = "sg"
+name = "vless"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 workers_dev = true
-[[routes]]
-pattern = "sg.meong.us.kg"
-custom_domain = true
 [vars]
-PROXYIP = "91.192.81.154:8443"
+PROXYIP = "43.133.145.156:53136"
 UUID = "862a1ca5-eb90-400a-8b3c-df88f85bee13"
