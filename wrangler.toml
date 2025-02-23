@@ -1,7 +1,7 @@
-name = "vless"
+name = "google"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 workers_dev = true
 [vars]
-PROXYIP = "43.133.145.156:53136"
+PROXYIP = "35.219.50.99:443"
 UUID = "862a1ca5-eb90-400a-8b3c-df88f85bee13"
